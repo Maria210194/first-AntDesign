@@ -1,11 +1,7 @@
-import React from 'react';
+import React from "react";
 
 const WhoWeAre = () => {
-    return (
-        <div>
-            <h1>Who we are</h1>
-        </div>
-    );
+  return <h1>Who we are</h1>;
 };
 
 export default WhoWeAre;
