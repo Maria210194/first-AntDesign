@@ -1,5 +1,5 @@
 # first-AntDesign
 
-Download and run -> npm i
+Download project and run -> npm i
 <br/>
 Run project -> npm run dev
