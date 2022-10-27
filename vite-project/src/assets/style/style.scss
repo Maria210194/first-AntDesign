@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: white !important;
+}
+
+.carouselImg {
+    width: 80%;
+    height: 100%;
+    margin-inline: auto;
+}
+
+.cardImage {
+    width: 50%;
+    margin-inline: auto;
+}
+
+.footerTitle {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.footerList {
+    list-style: none;
+}
